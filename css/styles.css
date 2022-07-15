@@ -162,6 +162,10 @@ body {
     color: #ffffff;
 }
 
+.adress-list {
+    font-style: normal;
+}
+
 .address-link {
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
